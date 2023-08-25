@@ -20,7 +20,6 @@ Software – Quartus prime
 ## Procedure
 ## Program:
 ```
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Sham Rathan S
 RegisterNumber: 212221230093
 
