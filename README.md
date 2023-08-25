@@ -16,9 +16,6 @@ Software – Quartus prime
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
  
 
-## Logic Diagram:
-![image](https://github.com/ShamRathan/Experiment--02-Implementation-of-combinational-logic-/assets/93587823/907d036c-9e3a-40d5-94c7-b0fe50d7942c)
-
 ## Procedure:
 Step 1: Create a project with required entities.
 
@@ -56,8 +53,14 @@ endmodule
 ## RTL:
 ![image](https://github.com/ShamRathan/Experiment--02-Implementation-of-combinational-logic-/assets/93587823/712b7a20-0fcd-48ad-9331-7bcd31542492)
 
-## Timing Diagram:
-![image](https://github.com/ShamRathan/Experiment--02-Implementation-of-combinational-logic-/assets/93587823/c888c720-d762-4e66-bd50-b406924c1814)
+## Truth Diagram:
+![image](https://github.com/ShamRathan/Experiment--02-Implementation-of-combinational-logic-/assets/93587823/00724f15-1e45-4fd7-976e-0eae90e2919d)
+
+
+## Waveform verified:
+![image](https://github.com/ShamRathan/Experiment--02-Implementation-of-combinational-logic-/assets/93587823/a13fe4c6-e94f-4237-b08d-b3536e599825)
+
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
