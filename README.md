@@ -10,6 +10,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
+
 Software – Quartus prime
 
 
@@ -19,12 +20,11 @@ Software – Quartus prime
 ## Logic Diagram
 ## Procedure
 ## Program:
-/*
+```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: Sham Rathan S
 RegisterNumber: 212221230093
-*/
-```
+
 module Exp02(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
